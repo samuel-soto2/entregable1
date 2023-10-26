@@ -33,6 +33,10 @@ public function registerSave(Request $request)
 
         return redirect()->route('login');
     }
+    public function login()
+    {
+        return view('auth/login');
+    }
 
     }
 

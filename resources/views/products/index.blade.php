@@ -17,11 +17,11 @@
         <thead class="table-primary">
             <tr>
                 <th>#</th>
-                <th>Title</th>
-                <th>Price</th>
-                <th>Product Code</th>
-                <th>Description</th>
-                <th>Action</th>
+                <th>Nombre</th>
+                <th>Precio</th>
+                <th>Codigo del producto</th>
+                <th>Descripcion</th>
+                <th>Accion</th>
             </tr>
         </thead>
         <tbody>+
